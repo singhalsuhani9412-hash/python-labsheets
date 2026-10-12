@@ -1,0 +1,11 @@
+# Question 9: Write a program to concatenate two tuples.
+
+t1 = (10, 20, 30)
+t2 = (40, 50, 60)
+
+t3 = t1 + t2
+
+print("Concatenated tuple:", t3)
+
+# Output:
+# Concatenated tuple: (10, 20, 30, 40, 50, 60)
